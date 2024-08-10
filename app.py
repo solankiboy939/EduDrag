@@ -61,28 +61,25 @@ def set_background_image_with_gradient(image_path):
                 background: rgba(0, 0, 0, 0.8); /* Adjust the color and opacity for gradient effect */
                 pointer-events: none; /* Allow clicks to pass through */
             }}
-            .main-container {{
-                position: relative;
-                padding: 20px;
-                border-radius: 10px;
-            }}
             .navbar {{
                 display: flex;
+                justify-content: space-between;
                 align-items: center;
                 background-color: rgba(40, 100, 100, 0.7);
                 color: white;
-                padding: 10px;
+                padding: 10px 20px;
                 border-radius: 5px;
-                margin-bottom: 20px;
-                position: absolute;
+                position: fixed;
                 width: 100%;
                 top: 0;
                 left: 0;
                 z-index: 2; /* Ensure navbar is on top */
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Add shadow for better visibility */
+                box-sizing: border-box;
+                height: 60px; /* Adjust height for navbar */
             }}
             .navbar img {{
                 height: 40px; /* Adjust height for logo size */
-                margin-right: 20px;
             }}
             .navbar a {{
                 color: white;
@@ -92,6 +89,23 @@ def set_background_image_with_gradient(image_path):
             }}
             .navbar a:hover {{
                 text-decoration: underline;
+            }}
+            .main-container {{
+                position: relative;
+                margin-top: 80px; /* Ensure main content is below the navbar */
+                padding: 20px;
+                background: rgba(255, 255, 255, 0.9); /* Light background to improve text visibility */
+                border-radius: 10px;
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow for content container */
+            }}
+            @media (max-width: 768px) {{
+                .navbar {{
+                    flex-direction: column;
+                    align-items: flex-start;
+                }}
+                .navbar a {{
+                    padding: 10px 0;
+                }}
             }}
             </style>
             """,
