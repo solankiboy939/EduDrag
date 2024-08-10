@@ -58,7 +58,7 @@ def set_background_image_with_gradient(image_path):
                 left: 0;
                 width: 100%;
                 height: 100%;
-                background: rgba(0, 0, 0, 0.8); /* Adjust the color and opacity for gradient effect */
+                background: rgba(0, 0, 0, 0.7); /* Adjust the color and opacity for gradient effect */
                 pointer-events: none; /* Allow clicks to pass through */
             }}
             .navbar {{
