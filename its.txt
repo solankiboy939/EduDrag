@@ -1,0 +1,1378 @@
+courses = {
+    "Computer Science and Engineering ": {
+        "1. Math": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "2. CHE-110": {
+            "Chapter 1": {
+                { title: "1.Introduction", url: "https://drive.google.com/file/d/13BpiCXwsBMOfpV8OgP52B3MDa-PIFmgT/preview" },
+                { title: "2.sustainable_development", url: "https://drive.google.com/file/d/1TAWbqyHW4nQNiTrbC1X2j6DcbNgV6wAs/preview" }
+            },
+            "Chapter 2": {
+                { title: "3.Land RESOURCES", url: "https://drive.google.com/file/d/1j6KXpIf7AGQiZyo_PukqAZtZ2smf3SVN/preview" },
+                { title: "4.Water RESOURCES", url: "https://drive.google.com/file/d/1EF-gchhAa3f8RKbr6CWgDkEJPGi2gmKG/preview" }
+            },
+            "Chapter 3": {
+                { title: "5. Forest and energy RESOURCES", url: "https://drive.google.com/file/d/1D_WLbDGVWGyCaNVl0hkSiQZ6Ah_BK54l/preview" },
+                { title: "6. Ecology 1", url: "https://drive.google.com/file/d/1o26ziAZjFX_BaeGdxaAMwaq-DPMeHB4o/preview" }
+            },
+            "Chapter 4": {
+                { title: "7 Ecology 2", url: "https://drive.google.com/file/d/1lPFOeN1WcIzR9cW5Rki3zZTcafhURz4J/preview" },
+                { title: "8 Biodiversity", url: "https://drive.google.com/file/d/1NLVdFB0irk1wWMF8nQPnww_K5VKp52IL/preview" }
+            },
+            "Chapter 5": {
+                { title: "9.Pollution 1", url: "https://drive.google.com/file/d/1X9yO-HisQ6dRGEHFWRd3GBxrmAsw9vG4/preview" },
+                { title: "10.Pollution 2", url: "https://drive.google.com/file/d/1vE1ZfS-7h1Pd13hRRF56l7xRDjKOJj9w/preview" }
+            },
+            "Chpater 6": {
+                { title: "11.EnvironmentalActs", url: "https://drive.google.com/file/d/1EHgKa1YTqSDBXU8btxfcb5SkEiG5nsDW/preview" },
+                { title: "12. Human population and Environment", url: "https://drive.google.com/file/d/1cRvMjkZSKSh_IcX5vZpZfLiXfMT0xXD0/preview" }
+            },
+            "Continuous Assesment": {
+                { title: "CA 1", url: "https://thepowermoves.com/wp-content/uploads/what-it-means-when-someone-makes-you-wait-768x447.jpg" },
+                { title: "CA 2", url: "https://thepowermoves.com/wp-content/uploads/what-it-means-when-someone-makes-you-wait-768x447.jpg" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "3. CSE-111(orientation of computing)": {
+            "Chapter 1": {
+                { title: "cores and bios", url: "https://docs.google.com/presentation/d/1Wwooe4fqI1vAc_FQ5vkkcNjhtcVq1ZL2/edit?usp=sharing&ouid=113730119227687902692&rtpof=true&sd=true" },
+                { title: "cse 111 unit 1 ssd", url: "https://docs.google.com/presentation/d/1U9R8banD2YznOybfgYewSoFFyKzZyQhZ/edit?usp=sharing&ouid=113730119227687902692&rtpof=true&sd=true" },
+                { title: "hdd and ssd", url: "https://docs.google.com/presentation/d/17Ld2FhBBV3m7u0wMORgauEmu6eVQEtOa/edit?usp=sharing&ouid=113730119227687902692&rtpof=true&sd=true" },
+                { title: "Linux OS and its features", url: "https://docs.google.com/presentation/d/1X_0_c2wxd4HiU-lZW17oB_DiddO3viPe/edit?usp=sharing&ouid=113730119227687902692&rtpof=true&sd=true" },
+                { title: "PC Connection Interface", url: "https://docs.google.com/presentation/d/1w4NowF951Qx6K3fKfUwNEDX0IWMJd0Ek/edit?usp=sharing&ouid=113730119227687902692&rtpof=true&sd=true" },
+                { title: "RAID  GPU", url: "https://docs.google.com/presentation/d/1jaIqrD3NSuULhPe6S4Xcxzwv1enjLUWV/edit?usp=sharing&ouid=113730119227687902692&rtpof=true&sd=true" },
+                { title: "Unit 1 Part 2", url: "https://docs.google.com/presentation/d/1sh7fDzEbgeNO10btmi2ZdsWD52koFbJ9/edit?usp=sharing&ouid=113730119227687902692&rtpof=true&sd=true" }
+            },
+            "Chapter 2": {
+                { title: "windows", url: "https://drive.google.com/file/d/1x9K8QGbMP13I6u-Ypzwf4s2yliQrzU5y/preview" },
+                { title: "windows", url: "https://docs.google.com/presentation/d/1gzPU4Tp312eOPiNpyZJDyRlvCvEC9dFg/edit?usp=sharing&ouid=113730119227687902692&rtpof=true&sd=true" }
+            },
+            "Chapter 3": {
+                { title: "Unit 3", url: "https://drive.google.com/file/d/1d4iHR2ao6EVevPuVuFXWDC7_NadMp_1W/preview" },
+                { title: "Unit 3.1", url: "https://docs.google.com/presentation/d/1JODFArpaDUC6ybLwVgoVkyypsNHrv7XS/edit?usp=sharing&ouid=113730119227687902692&rtpof=true&sd=true" }
+            },
+            "Chapter 4": {
+                { title: "Unit 4 cnc", url: "https://docs.google.com/presentation/d/1Na_qkjSU75vsKP8yjfyVGDdYtncXfoN7/edit?usp=sharing&ouid=113730119227687902692&rtpof=true&sd=true" },
+                { title: "Git hub command(Extra)", url: "https://drive.google.com/file/d/1t8e1X6mdSyP1e66Udx1uliaN_QXjjWJw/view?usp=sharing" }
+            },
+            "Chapter 5": {
+                { title: "Unit 5 Updated", url: "https://docs.google.com/presentation/d/1ybkfsR-M759JB3PyTcDOoWBU0hJU9l4F/edit?usp=sharing&ouid=113730119227687902692&rtpof=true&sd=true" },
+                { title: "Assignments ", url: "https://c.saavncdn.com/384/Wait-Sometime-Haryanvi-2021-20210920192934-500x500.jpg" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://c.saavncdn.com/384/Wait-Sometime-Haryanvi-2021-20210920192934-500x500.jpg" },
+                { title: "Assignment", url: "https://c.saavncdn.com/384/Wait-Sometime-Haryanvi-2021-20210920192934-500x500.jpg" }
+            },
+            "Continuous Assesment": {
+                { title: "CA3 Template students (1)", url: "https://docs.google.com/document/d/1vpU9a2IqU02FBOP91hPeopOgdp8sUeza/edit?usp=sharing&ouid=113730119227687902692&rtpof=true&sd=true" },
+                { title: "CA3 Template students", url: "https://docs.google.com/document/d/1vpU9a2IqU02FBOP91hPeopOgdp8sUeza/edit?usp=sharing&ouid=113730119227687902692&rtpof=true&sd=true" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "4. ECE-279(Electrical Engineering(Practical))": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "5. ECE-249(Electrical Engineering)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "6. INT108(Python programming)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "7. MATH-174(Calculus in Math)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "8. PES-318(Soft Skill)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "9. CSE-101(C language)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "10. CSE-121(orientation of computing - I)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "11. CSE320-Software Engineering": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "12. INT-306(data Base Management)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "13. MEC_135(machenical Engineer)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "14. MTH-401(Discrete Math)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "15. phy_110(Quantum Physich)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "16. CSE-202(Object oriented programming)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "17. CSE-205 Data structure and algorithm": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "18. CSE-211(Computer organization and design)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "19. CSE-306(Computer network)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "20. CSE-316(Operating system)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "21. Gen231": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "22. PEL132(ANALYTICAL Skill - I)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "23. CSE_310 (PROGRAMMING IN JAVA)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "24. CSE_408 (DESIGN AND ANALYSIS OF ALGORITHMS)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "25. generative AI(coursera)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "26. PEA_305 (ANALYTICAL SKILLS-I)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "27. MTH_302(Probability and statisticcs)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "28. INT_426 (GENERATIVE AI)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "29. INT_404(Artificial Intelligent)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "30. generative AI(coursera)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "31. INT_354 (MACHINE LEARNING-I)": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+        "32. INT_254 (FUNDAMENTALS OF MACHINE LEARNING )": {
+            "Chapter 1": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 2": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 3": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 4": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chapter 5": {
+                { title: "Lecture Notes - Introduction", url: "https://example.com/path_to_pdf1.pdf" },
+                { title: "Assignment 1", url: "https://example.com/path_to_pdf2.pdf" }
+            },
+            "Chpater 6": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Continuous Assesment": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "Mid Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+            "End Term": {
+                { title: "Lecture Notes - Variables", url: "https://example.com/path_to_pdf3.pdf" },
+                { title: "Assignment 2", url: "https://example.com/path_to_pdf4.pdf" }
+            },
+        },
+    },
+    "Sciences": {
+        "B.Sc. (Hons)": {
+            "   B.Sc. (Hons) in Physics": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            },
+            "   B.Sc. (Hons) in Chemistry": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            },
+            "   B.Sc. (Hons) in Mathematics": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            }
+        },
+        "B.Sc. in Biotechnology": {
+            "   B.Sc. (Hons) in Physics": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            }
+        }
+    },
+    "Business & Management": {
+        "BBA": {
+            "Integration": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            },
+            "Differentiation": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            }
+        },
+        "B.Com (Hons)": {
+            "Integration": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            },
+            "Differentiation": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            }
+        },
+        "BBA (Hons)": {
+            "Integration": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            },
+            "Differentiation": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            }
+        },
+        "Integrated BBA-MBA": {
+            "Integration": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            },
+            "Differentiation": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            }
+        }
+    },
+    "Design & Architecture": {
+        "B.Design": {
+            "Integration": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            },
+            "Differentiation": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            }
+        },
+        "B.Arch": {
+            "Integration": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            },
+            "Differentiation": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            }
+        }
+    },
+    "Arts & Humanities": {
+        "BA (Hons) in English": {
+            "Integration": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            },
+            "Differentiation": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            }
+        },
+        "BA (Hons) in History": {
+            "Integration": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            },
+            "Differentiation": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            }
+        },
+        "BA (Hons) in Political Science": {
+            "Integration": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            },
+            "Differentiation": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            }
+        }
+    },
+    "Social Sciences": {
+        "BA in Psychology": {
+            "Integration": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            },
+            "Differentiation": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            }
+        },
+        "BA in Sociology": {
+            "Integration": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            },
+            "Differentiation": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            }
+        }
+    },
+    "Hotel Management": {
+        "BHM (Bachelor of Hotel Management)": {
+            "Integration": {
+                { title: "Lecture Notes - Definite Integrals", url: "https://example.com/path_to_pdf9.pdf" },
+                { title: "Assignment 5", url: "https://example.com/path_to_pdf10.pdf" }
+            },
+            "Differentiation": {
+                { title: "Lecture Notes - Derivatives", url: "https://example.com/path_to_pdf11.pdf" },
+                { title: "Assignment 6", url: "https://example.com/path_to_pdf12.pdf" }
+            }
+        }
+    }
+    // Add more courses as needed
+};
